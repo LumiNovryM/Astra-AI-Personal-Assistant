@@ -1,1 +1,15 @@
-.env*
+.env
+.env.*
+!.env.example
+
+logs/
+whatsapp_brave_profile/
+
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+
+.vscode/
+.idea/

@@ -1,0 +1,12 @@
+Halo bro,
+
+Ini adalah message yang dikirim oleh Astra AI.
+
+Berikut adalah informasi yang perlu disampaikan:
+
+1. Database sudah berhasil dibuat.
+2. Backup sudah berhasil dilakukan.
+3. File siap dikirim.
+
+Regards,
+Astra AI
